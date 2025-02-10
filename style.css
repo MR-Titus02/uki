@@ -1,0 +1,10 @@
+@media screen and (max-width: 510px) {
+    .new {
+    background-color: rgb(150, 160, 170);
+    }
+}
+@media screen and (min-width: 510px) {
+    .old {
+    background-color: rgb(150, 160, 170);
+    }
+}
